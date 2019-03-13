@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "microsoft-graph-persona-client-side-solution",
+    "id": "1b4b122d-091b-428e-b2c2-47a8642626b7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "webApiPermissionRequests": [
+      {
+        "resource": "Microsoft Graph",
+        "scope": "User.ReadBasic.All"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/microsoft-graph-persona.sppkg"
+  }
+}

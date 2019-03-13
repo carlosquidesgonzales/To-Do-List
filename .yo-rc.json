@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "microsoft-graph-persona",
+    "libraryId": "1b4b122d-091b-428e-b2c2-47a8642626b7",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
