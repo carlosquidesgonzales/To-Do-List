@@ -22,21 +22,6 @@
     @include ms-lgPush1;
   }
 
-  .title {
-    @include ms-font-xl;
-    @include ms-fontColor-white;
-  }
-
-  .subTitle {
-    @include ms-font-l;
-    @include ms-fontColor-white;
-  }
-
-  .description {
-    @include ms-font-l;
-    @include ms-fontColor-white;
-  }
-
   .button {
     // Our button
     text-decoration: none;
