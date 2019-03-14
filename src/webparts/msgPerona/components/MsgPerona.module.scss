@@ -45,15 +45,5 @@
     cursor: pointer;
     display: inline-block;
     padding: 0 16px;
-
-    .label {
-      font-weight: $ms-font-weight-semibold;
-      font-size: $ms-font-size-m;
-      height: 32px;
-      line-height: 32px;
-      margin: 0 4px;
-      vertical-align: top;
-      display: inline-block;
-    }
   }
 }
